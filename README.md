@@ -1,4 +1,4 @@
-# 🎧 Sensora Moodify
+# 🎧 Sensora Moodify Player
 
 An AI-powered music player that detects your facial expressions in real-time and dynamically curates music based on your mood.
 
